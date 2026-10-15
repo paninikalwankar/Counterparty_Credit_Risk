@@ -1,5 +1,5 @@
 # Counterparty_Credit_Risk
-#Model-Validation
+#Model_Validation
 
 This project aims to demonstrate the process of validating counterparty credit risk models used for Pillar-I, CCAR, IFRS-9, and internal stress testing. The project uses a hypothetical dataset of 100 counterparties, each with attributes such as Exposure at Default (EAD), Probability of Default (PD), Loss Given Default (LGD), industry, country, and rating.
 
